@@ -44,3 +44,12 @@
   🌟 Actualmente me estoy especializando en <strong>React</strong>, <strong>JavaScript</strong> y <strong>Node.js</strong>.
 </p>
 <br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/roberteban">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=roberteban&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roberteban&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
