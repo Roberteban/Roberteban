@@ -15,7 +15,7 @@
 
   📝 He desempeñado roles como desarrollador, investigador y documentador, contribuyendo a la creación y mejora de soluciones tecnológicas.
 
-  📫 Puedes contactarme a través de: <a href="mailto:roberteban97@gmail.com"><strong>roberteban97@gmail.com</strong></a>
+  📫 Puedes contactarme a través de: <a href="mailto:robertocastillocontact@gmail.com"><strong>robertocastillocontact@gmail.com</strong></a>
 </p>
 <br>
 
